@@ -1,0 +1,6 @@
+@DoulingoApi_HostAddress = http://localhost:5289
+
+GET {{DoulingoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
